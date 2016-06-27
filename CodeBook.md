@@ -9,7 +9,7 @@ The data consists of measurements from accelerometers and gyroscopes from a smar
 
 ## Summary
 
-There are 4 variables:
+There are 4 columns:
 
 * subject
 * activity
@@ -33,7 +33,7 @@ There are 6 different activities:
 
 They describe the activity being performed by a subject while a particular measurement was made.
 
-#### measure
+#### variable
 
 This is a collection of 66 measures taken from the original dataset that captured either a mean() or a std() function. The names have been changed to be descriptive. For more details please refer to the original study mentioned above.
 
