@@ -4,11 +4,11 @@
 
 This script was created to complete the 'Getting and Cleaning Data' Coursera course assignment. Original data was obtained from:
 
-    https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+    * https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 This data was collected as part of this project:
 
-    http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+    * http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ## Summary of script
 
@@ -26,8 +26,8 @@ The script (run_analysis.R) performs the following analysis:
 
 6. Melted the variables descriptive variable names. This was done to make the dataset "narrow" which is my personal aesthetic choice. Note that this does not prevent the data from also being tidy. For reference please see these links:
 
-    http://vita.had.co.nz/papers/tidy-data.pdf
-    https://en.wikipedia.org/wiki/Wide_and_narrow_data
+    * http://vita.had.co.nz/papers/tidy-data.pdf
+    * https://en.wikipedia.org/wiki/Wide_and_narrow_data
 
 7. Create a seperate dataset in "tidy data" format with the average of each variable for each activity and each subject. 
 
