@@ -4,6 +4,8 @@ This document details the tidy data set. For the original source data and backgr
 
     https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
     http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+    
+The data consists of measurements from accelerometers and gyroscopes from a smartphone, recorded while 30 subjects participated in 6 activities. Measurements were normalized and had various filters / processing applied to them. For a complete description refer to the original work. The tidy data set provides, for each subject and activity, the average measurement for each of the measurement types.
 
 ## Summary
 
@@ -29,11 +31,11 @@ There are 6 different activities:
 * STANDING
 * LAYING
 
-They describe the activity being performed while the data was being recorded.
+They describe the activity being performed by a subject while a particular measurement was made.
 
-#### variable
+#### measure
 
-This is a collection of 66 measures taken from the original dataset that captured either a mean() or a std() function. Because of the descriptive name, it is possible to simply read the variable to get a good sense of what it represents.
+This is a collection of 66 measures taken from the original dataset that captured either a mean() or a std() function. The names have been changed to be descriptive. For more details please refer to the original study mentioned above.
 
 * FrequencyBodyAccelerometerJerkMagnitudeMean
 * FrequencyBodyAccelerometerJerkMagnitudeStandardDeviation
@@ -104,4 +106,6 @@ This is a collection of 66 measures taken from the original dataset that capture
 
 ### mean
 
-This is the mean of the particular subject/activity group variable measurement. Note that in some cases this is a mean of means! The original units were normalized, so the units are still units norm.
+This is the mean of the particular subject/activity group variable measurement. Note that the source variables were themselves originally means (and standard deviations) over time from single activity trial. So the mean variable of the Tidy Data dataset is a mean of these trial means.
+
+The original units were normalized, so the units are still units norm.
