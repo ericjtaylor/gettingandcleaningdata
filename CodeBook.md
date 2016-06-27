@@ -35,72 +35,72 @@ They describe the activity being performed while the data was being recorded.
 
 This is a collection of 66 measures taken from the original dataset that captured either a mean() or a std() function. Because of the descriptive name, it is possible to simply read the variable to get a good sense of what it represents.
 
-* 1               FrequencyBodyAccelerometerJerkMagnitudeMean
-* 2  FrequencyBodyAccelerometerJerkMagnitudeStandardDeviation
-* 3                  FrequencyBodyAccelerometerJerkMeanX-Axis
-* 4                  FrequencyBodyAccelerometerJerkMeanY-Axis
-* 5                  FrequencyBodyAccelerometerJerkMeanZ-Axis
-* 6     FrequencyBodyAccelerometerJerkStandardDeviationX-Axis
-* 7     FrequencyBodyAccelerometerJerkStandardDeviationY-Axis
-* 8     FrequencyBodyAccelerometerJerkStandardDeviationZ-Axis
-* 9                   FrequencyBodyAccelerometerMagnitudeMean
-* 10     FrequencyBodyAccelerometerMagnitudeStandardDeviation
-* 11                     FrequencyBodyAccelerometerMeanX-Axis
-* 12                     FrequencyBodyAccelerometerMeanY-Axis
-* 13                     FrequencyBodyAccelerometerMeanZ-Axis
-* 14        FrequencyBodyAccelerometerStandardDeviationX-Axis
-* 15        FrequencyBodyAccelerometerStandardDeviationY-Axis
-* 16        FrequencyBodyAccelerometerStandardDeviationZ-Axis
-* 17                  FrequencyBodyGyroscopeJerkMagnitudeMean
-* 18     FrequencyBodyGyroscopeJerkMagnitudeStandardDeviation
-* 19                      FrequencyBodyGyroscopeMagnitudeMean
-* 20         FrequencyBodyGyroscopeMagnitudeStandardDeviation
-* 21                         FrequencyBodyGyroscopeMeanX-Axis
-* 22                         FrequencyBodyGyroscopeMeanY-Axis
-* 23                         FrequencyBodyGyroscopeMeanZ-Axis
-* 24            FrequencyBodyGyroscopeStandardDeviationX-Axis
-* 25            FrequencyBodyGyroscopeStandardDeviationY-Axis
-* 26            FrequencyBodyGyroscopeStandardDeviationZ-Axis
-* 27                   TimeBodyAccelerometerJerkMagnitudeMean
-* 28      TimeBodyAccelerometerJerkMagnitudeStandardDeviation
-* 29                      TimeBodyAccelerometerJerkMeanX-Axis
-* 30                      TimeBodyAccelerometerJerkMeanY-Axis
-* 31                      TimeBodyAccelerometerJerkMeanZ-Axis
-* 32         TimeBodyAccelerometerJerkStandardDeviationX-Axis
-* 33         TimeBodyAccelerometerJerkStandardDeviationY-Axis
-* 34         TimeBodyAccelerometerJerkStandardDeviationZ-Axis
-* 35                       TimeBodyAccelerometerMagnitudeMean
-* 36          TimeBodyAccelerometerMagnitudeStandardDeviation
-* 37                          TimeBodyAccelerometerMeanX-Axis
-* 38                          TimeBodyAccelerometerMeanY-Axis
-* 39                          TimeBodyAccelerometerMeanZ-Axis
-* 40             TimeBodyAccelerometerStandardDeviationX-Axis
-* 41             TimeBodyAccelerometerStandardDeviationY-Axis
-* 42             TimeBodyAccelerometerStandardDeviationZ-Axis
-* 43                       TimeBodyGyroscopeJerkMagnitudeMean
-* 44          TimeBodyGyroscopeJerkMagnitudeStandardDeviation
-* 45                          TimeBodyGyroscopeJerkMeanX-Axis
-* 46                          TimeBodyGyroscopeJerkMeanY-Axis
-* 47                          TimeBodyGyroscopeJerkMeanZ-Axis
-* 48             TimeBodyGyroscopeJerkStandardDeviationX-Axis
-* 49             TimeBodyGyroscopeJerkStandardDeviationY-Axis
-* 50             TimeBodyGyroscopeJerkStandardDeviationZ-Axis
-* 51                           TimeBodyGyroscopeMagnitudeMean
-* 52              TimeBodyGyroscopeMagnitudeStandardDeviation
-* 53                              TimeBodyGyroscopeMeanX-Axis
-* 54                              TimeBodyGyroscopeMeanY-Axis
-* 55                              TimeBodyGyroscopeMeanZ-Axis
-* 56                 TimeBodyGyroscopeStandardDeviationX-Axis
-* 57                 TimeBodyGyroscopeStandardDeviationY-Axis
-* 58                 TimeBodyGyroscopeStandardDeviationZ-Axis
-* 59                    TimeGravityAccelerometerMagnitudeMean
-* 60       TimeGravityAccelerometerMagnitudeStandardDeviation
-* 61                       TimeGravityAccelerometerMeanX-Axis
-* 62                       TimeGravityAccelerometerMeanY-Axis
-* 63                       TimeGravityAccelerometerMeanZ-Axis
-* 64          TimeGravityAccelerometerStandardDeviationX-Axis
-* 65          TimeGravityAccelerometerStandardDeviationY-Axis
-* 66          TimeGravityAccelerometerStandardDeviationZ-Axis
+* FrequencyBodyAccelerometerJerkMagnitudeMean
+* FrequencyBodyAccelerometerJerkMagnitudeStandardDeviation
+* FrequencyBodyAccelerometerJerkMeanX-Axis
+* FrequencyBodyAccelerometerJerkMeanY-Axis
+* FrequencyBodyAccelerometerJerkMeanZ-Axis
+* FrequencyBodyAccelerometerJerkStandardDeviationX-Axis
+* FrequencyBodyAccelerometerJerkStandardDeviationY-Axis
+* FrequencyBodyAccelerometerJerkStandardDeviationZ-Axis
+* FrequencyBodyAccelerometerMagnitudeMean
+* FrequencyBodyAccelerometerMagnitudeStandardDeviation
+* FrequencyBodyAccelerometerMeanX-Axis
+* FrequencyBodyAccelerometerMeanY-Axis
+* FrequencyBodyAccelerometerMeanZ-Axis
+* FrequencyBodyAccelerometerStandardDeviationX-Axis
+* FrequencyBodyAccelerometerStandardDeviationY-Axis
+* FrequencyBodyAccelerometerStandardDeviationZ-Axis
+* FrequencyBodyGyroscopeJerkMagnitudeMean
+* FrequencyBodyGyroscopeJerkMagnitudeStandardDeviation
+* FrequencyBodyGyroscopeMagnitudeMean
+* FrequencyBodyGyroscopeMagnitudeStandardDeviation
+* FrequencyBodyGyroscopeMeanX-Axis
+* FrequencyBodyGyroscopeMeanY-Axis
+* FrequencyBodyGyroscopeMeanZ-Axis
+* FrequencyBodyGyroscopeStandardDeviationX-Axis
+* FrequencyBodyGyroscopeStandardDeviationY-Axis
+* FrequencyBodyGyroscopeStandardDeviationZ-Axis
+* TimeBodyAccelerometerJerkMagnitudeMean
+* TimeBodyAccelerometerJerkMagnitudeStandardDeviation
+* TimeBodyAccelerometerJerkMeanX-Axis
+* TimeBodyAccelerometerJerkMeanY-Axis
+* TimeBodyAccelerometerJerkMeanZ-Axis
+* TimeBodyAccelerometerJerkStandardDeviationX-Axis
+* TimeBodyAccelerometerJerkStandardDeviationY-Axis
+* TimeBodyAccelerometerJerkStandardDeviationZ-Axis
+* TimeBodyAccelerometerMagnitudeMean
+* TimeBodyAccelerometerMagnitudeStandardDeviation
+* TimeBodyAccelerometerMeanX-Axis
+* TimeBodyAccelerometerMeanY-Axis
+* TimeBodyAccelerometerMeanZ-Axis
+* TimeBodyAccelerometerStandardDeviationX-Axis
+* TimeBodyAccelerometerStandardDeviationY-Axis
+* TimeBodyAccelerometerStandardDeviationZ-Axis
+* TimeBodyGyroscopeJerkMagnitudeMean
+* TimeBodyGyroscopeJerkMagnitudeStandardDeviation
+* TimeBodyGyroscopeJerkMeanX-Axis
+* TimeBodyGyroscopeJerkMeanY-Axis
+* TimeBodyGyroscopeJerkMeanZ-Axis
+* TimeBodyGyroscopeJerkStandardDeviationX-Axis
+* TimeBodyGyroscopeJerkStandardDeviationY-Axis
+* TimeBodyGyroscopeJerkStandardDeviationZ-Axis
+* TimeBodyGyroscopeMagnitudeMean
+* TimeBodyGyroscopeMagnitudeStandardDeviation
+* TimeBodyGyroscopeMeanX-Axis
+* TimeBodyGyroscopeMeanY-Axis
+* TimeBodyGyroscopeMeanZ-Axis
+* TimeBodyGyroscopeStandardDeviationX-Axis
+* TimeBodyGyroscopeStandardDeviationY-Axis
+* TimeBodyGyroscopeStandardDeviationZ-Axis
+* TimeGravityAccelerometerMagnitudeMean
+* TimeGravityAccelerometerMagnitudeStandardDeviation
+* TimeGravityAccelerometerMeanX-Axis
+* TimeGravityAccelerometerMeanY-Axis
+* TimeGravityAccelerometerMeanZ-Axis
+* TimeGravityAccelerometerStandardDeviationX-Axis
+* TimeGravityAccelerometerStandardDeviationY-Axis
+* TimeGravityAccelerometerStandardDeviationZ-Axis
 
 ### mean
 
