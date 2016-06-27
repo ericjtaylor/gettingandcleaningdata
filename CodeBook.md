@@ -104,4 +104,4 @@ This is a collection of 66 measures taken from the original dataset that capture
 
 ### mean
 
-This is the mean of the particular subject/activity/variable group. Note that in some cases this is a mean of a mean! However this is what the assignment is asking for.
+This is the mean of the particular subject/activity group variable measurement. Note that in some cases this is a mean of means! The original units were normalized, so the units are still units norm.
